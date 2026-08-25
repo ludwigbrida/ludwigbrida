@@ -1,6 +1,10 @@
 {
   "name": "@ludwigbrida/ludwigbrida",
   "private": true,
+  "scripts": {
+    "commitlint": "commitlint",
+    "prettier": "prettier"
+  },
   "devDependencies": {
     "@commitlint/cli": "21.2.2",
     "@commitlint/config-conventional": "21.2.2",
